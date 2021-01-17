@@ -1,5 +1,6 @@
 # CHIP-8-Emulator
-A WIP simple CHIP-8 emulator written in C++
+A simple CHIP-8 emulator written in C++
+WIP
 
 # Resources
 https://en.wikipedia.org/wiki/CHIP-8
